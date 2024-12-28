@@ -28,6 +28,7 @@
 			membershipExceptions = (
 				Greedy01.swift,
 				Greedy02.swift,
+				Greedy03.swift,
 			);
 			target = 88C7D28C2D1E87AE000B6EF5 /* Algorithm */;
 		};
