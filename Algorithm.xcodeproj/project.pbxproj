@@ -26,9 +26,11 @@
 		88C7D2972D1E918F000B6EF5 /* Exceptions for "Algorithm" folder in "Algorithm" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Greedy01.swift,
-				Greedy02.swift,
-				Greedy03.swift,
+				Greedy/Greedy01.swift,
+				Greedy/Greedy02.swift,
+				Greedy/Greedy03.swift,
+				Greedy/Greedy04.swift,
+				Implement01.swift,
 			);
 			target = 88C7D28C2D1E87AE000B6EF5 /* Algorithm */;
 		};
