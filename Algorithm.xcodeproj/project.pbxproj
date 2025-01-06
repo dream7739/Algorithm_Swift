@@ -32,6 +32,7 @@
 				Greedy/Greedy04.swift,
 				Implement/Implement01.swift,
 				Implement/Implement02.swift,
+				Sort/BubbleSort.swift,
 			);
 			target = 88C7D28C2D1E87AE000B6EF5 /* Algorithm */;
 		};
