@@ -32,6 +32,8 @@
 				Greedy/Greedy04.swift,
 				Implement/Implement01.swift,
 				Implement/Implement02.swift,
+				Implement/Implement03.swift,
+				Implement/Implement04.swift,
 				Sort/BubbleSort.swift,
 				Sort/InsertionSort.swift,
 				Sort/SelectionSort.swift,
