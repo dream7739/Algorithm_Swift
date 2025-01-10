@@ -16,7 +16,7 @@ struct Stack<T> {
     private var elements: [T] = []
     
     // 최상단
-    var peak: T? {
+    var peek: T? {
         return elements.last
     }
     

@@ -37,6 +37,7 @@
 				Sort/BubbleSort.swift,
 				Sort/InsertionSort.swift,
 				Sort/SelectionSort.swift,
+				StackQueue/Stack.swift,
 			);
 			target = 88C7D28C2D1E87AE000B6EF5 /* Algorithm */;
 		};
