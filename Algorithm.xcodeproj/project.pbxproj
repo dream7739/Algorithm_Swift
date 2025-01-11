@@ -37,6 +37,7 @@
 				Sort/BubbleSort.swift,
 				Sort/InsertionSort.swift,
 				Sort/SelectionSort.swift,
+				StackQueue/1158.swift,
 				StackQueue/2164.swift,
 				StackQueue/9012.swift,
 				StackQueue/288278.swift,
