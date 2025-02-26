@@ -10,30 +10,6 @@ import Foundation
 // 음료수 얼려먹기
 // N * M
 
-struct Stack<T> {
-    private var array: [T] = []
-
-    var peek: T? {
-        return array.last
-    }
-
-    var isEmpty: Bool {
-        return array.isEmpty
-    }
-
-    var count: Int {
-        return array.count
-    }
-
-    mutating func push(_ element: T) {
-        array.append(element)
-    }
-
-    mutating func pop() -> T? {
-        return array.popLast()
-    }
-}
-
 let input = readLine()!.split(separator: " ").map { Int($0)! }
 let n = input[0]
 let m = input[1]
