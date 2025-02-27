@@ -41,6 +41,7 @@
 				Implement/Implement04.swift,
 				Sort/BubbleSort.swift,
 				Sort/InsertionSort.swift,
+				Sort/QuickSort.swift,
 				Sort/SelectionSort.swift,
 				StackQueue/1158.swift,
 				StackQueue/2164.swift,
