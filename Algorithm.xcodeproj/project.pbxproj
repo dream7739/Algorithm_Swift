@@ -45,6 +45,7 @@
 				Sort/SelectionSort.swift,
 				Sort/Sort01.swift,
 				Sort/Sort02.swift,
+				Sort/Sort03.swift,
 				StackQueue/1158.swift,
 				StackQueue/2164.swift,
 				StackQueue/9012.swift,
