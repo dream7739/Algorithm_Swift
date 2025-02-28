@@ -26,6 +26,7 @@
 		88C7D2972D1E918F000B6EF5 /* Exceptions for "Algorithm" folder in "Algorithm" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				BinarySearch/BinarySearch.swift,
 				DFSBFS/BFS.swift,
 				DFSBFS/DFS.swift,
 				DFSBFS/Factorial.swift,
