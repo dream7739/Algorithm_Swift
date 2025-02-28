@@ -27,6 +27,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				BinarySearch/BinarySearch.swift,
+				BinarySearch/BinarySearch01.swift,
+				BinarySearch/BinarySearch02.swift,
 				DFSBFS/BFS.swift,
 				DFSBFS/DFS.swift,
 				DFSBFS/Factorial.swift,
