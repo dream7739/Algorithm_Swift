@@ -34,6 +34,7 @@
 				DFSBFS/Factorial.swift,
 				DFSBFS/Search01.swift,
 				DFSBFS/Search02.swift,
+				DP/DP01.swift,
 				Greedy/Greedy01.swift,
 				Greedy/Greedy02.swift,
 				Greedy/Greedy03.swift,
