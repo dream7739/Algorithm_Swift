@@ -23,42 +23,10 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		88C7D2972D1E918F000B6EF5 /* Exceptions for "Algorithm" folder in "Algorithm" target */ = {
+		887D84FC2D7FFA050022E638 /* Exceptions for "Algorithm" folder in "Algorithm" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				BinarySearch/BinarySearch.swift,
-				BinarySearch/BinarySearch01.swift,
-				BinarySearch/BinarySearch02.swift,
-				DFSBFS/BFS.swift,
-				DFSBFS/DFS.swift,
-				DFSBFS/Factorial.swift,
-				DFSBFS/Search01.swift,
-				DFSBFS/Search02.swift,
-				DP/DP01.swift,
-				DP/DP02.swift,
-				DP/DP03.swift,
-				DP/DP04.swift,
-				Greedy/Greedy01.swift,
-				Greedy/Greedy02.swift,
-				Greedy/Greedy03.swift,
-				Greedy/Greedy04.swift,
-				Implement/Implement01.swift,
-				Implement/Implement02.swift,
-				Implement/Implement03.swift,
-				Implement/Implement04.swift,
-				Sort/BubbleSort.swift,
-				Sort/InsertionSort.swift,
-				Sort/QuickSort.swift,
-				Sort/SelectionSort.swift,
-				Sort/Sort01.swift,
-				Sort/Sort02.swift,
-				Sort/Sort03.swift,
-				StackQueue/1158.swift,
-				StackQueue/2164.swift,
-				StackQueue/9012.swift,
-				StackQueue/288278.swift,
-				StackQueue/Queue.swift,
-				StackQueue/Stack.swift,
+				main.swift,
 			);
 			target = 88C7D28C2D1E87AE000B6EF5 /* Algorithm */;
 		};
@@ -68,7 +36,7 @@
 		88C7D28F2D1E87AE000B6EF5 /* Algorithm */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				88C7D2972D1E918F000B6EF5 /* Exceptions for "Algorithm" folder in "Algorithm" target */,
+				887D84FC2D7FFA050022E638 /* Exceptions for "Algorithm" folder in "Algorithm" target */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -116,9 +84,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				88C7D28F2D1E87AE000B6EF5 /* Algorithm */,
 			);
 			name = Algorithm;
 			packageProductDependencies = (
