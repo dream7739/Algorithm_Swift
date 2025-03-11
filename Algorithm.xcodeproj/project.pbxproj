@@ -23,10 +23,10 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		887D857B2D8004580022E638 /* Exceptions for "Algorithm" folder in "Algorithm" target */ = {
+		887D857E2D801A500022E638 /* Exceptions for "Algorithm" folder in "Algorithm" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Programmers/P04.swift,
+				Programmers/P05.swift,
 			);
 			target = 88C7D28C2D1E87AE000B6EF5 /* Algorithm */;
 		};
@@ -36,7 +36,7 @@
 		88C7D28F2D1E87AE000B6EF5 /* Algorithm */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				887D857B2D8004580022E638 /* Exceptions for "Algorithm" folder in "Algorithm" target */,
+				887D857E2D801A500022E638 /* Exceptions for "Algorithm" folder in "Algorithm" target */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
