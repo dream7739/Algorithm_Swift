@@ -11,7 +11,6 @@ import Foundation
 func solution(_ s:String) -> String {
     var isWhiteSpace = true
     var answer = ""
-    
     for str in s {
         if isWhiteSpace {
             answer += str.uppercased()
